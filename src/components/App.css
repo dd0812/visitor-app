@@ -1,0 +1,23 @@
+.visitor-form {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+.visitor-form .MuiTextField-root {
+    width: 100%
+}
+.visitor-form .MuiFormControl-root {
+    width: 100%
+}
+.news-item{
+    display: flex !important;
+    /* align-items: center !important; */
+    cursor: pointer;
+    padding-bottom: 20px !important;
+}
+
+.news-item img{
+    border-radius: 8px;
+    max-width: 180px !important;
+}
